@@ -4,6 +4,6 @@
   predictive modeling, and business intelligence tools like Power BI, R, Python, SQL, and Tableau.
 
 - 📫 How to reach me:
-  Email: badebay1@depaul.edu
+  Email: Adebayom054@gmail.com
 
 
